@@ -1,7 +1,7 @@
 ### Olá sou a Camila Marques
 
 Estudante do Curso de Análise e Desenvolvimento de Sistemas - IFBA - Salvador 👩🏽‍💻💗
-- 🎓 Sou formada Psicóloga em transição de carreira
+- 🎓 Psicóloga em transição de carreira
 - 🌱 Estudando Java e Angular
 - 😄 Pronouns: ela/dela
 
