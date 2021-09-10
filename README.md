@@ -2,7 +2,7 @@
 
 Estudante do Curso de Análise e Desenvolvimento de Sistemas - IFBA - Salvador 👩🏽‍💻💗
 - 🎓 Psicóloga por formação
-- 🌱 Estudando Java e Angular
+- 🌱 Estudando Java, Angular e JS
 - 😄 Pronouns: ela/dela
 
 
