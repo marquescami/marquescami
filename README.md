@@ -3,7 +3,7 @@
 - 👩🏽‍💻 Graduanda em Análise e desenvolvimento de sistemas no IFBA - Salvador
 - 🎓 Psicóloga por formação
 - ☕ Apaixonada por tecnologia e por café
-- 🚀 Estou em migração de carreira e busco a minha primeira oportunidade na área de tecnologia
+- 🚀 Analista de sistemas júnior
 
  <div>
    <a href="https://github.com/marquescami">
