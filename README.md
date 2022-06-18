@@ -1,6 +1,6 @@
 ## Olá, me chamo Camila Marques ! 
 
-- 🚀 Analista de sistemas júnior
+- 🚀 Analista de sistemas
 - 👩🏽‍💻 Graduanda em Análise e desenvolvimento de sistemas no IFBA - Salvador
 - 🎓 Psicóloga por formação
 - ☕ Apaixonada por tecnologia e por café
