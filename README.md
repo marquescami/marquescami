@@ -2,7 +2,6 @@
 
 
 <img title="Github Yearly commits" alt="Github Yearly" align="right" src="https://badges.strrl.dev/years/marquescami?style=flat&color=ee82ee&logo=github" />
-<img title="Github Yearly commits" alt="Github Mothly" align="right" src="https://badges.strrl.dev/commits/monthly/marquescami?style=flat&color=ee82ee" />
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/marquescami?color=ee82ee" />
 
 - 🚀 Analista de sistemas
