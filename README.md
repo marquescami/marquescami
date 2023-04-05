@@ -5,7 +5,7 @@
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/marquescami?color=ee82ee" />
 
 - 🚀 Analista de sistemas
-- 👩🏽‍💻 Graduanda em Análise e desenvolvimento de sistemas no IFBA - Salvador
+- 👩🏽‍💻 Graduanda em Análise e desenvolvimento de sistemas no Instituto Federal da Bahia (IFBA) - Salvador
 - 🎓 Psicóloga por formação
 - ☕ Apaixonada por tecnologia e por café
 
