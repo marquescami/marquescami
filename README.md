@@ -1,14 +1,11 @@
 ## Olá, me chamo Camila Marques ! 
 
-
 <img title="Github Yearly commits" alt="Github Yearly" align="right" src="https://badges.strrl.dev/years/marquescami?style=flat&color=ee82ee&logo=github" />
 <img title="Gihub Member" alt="Gihub Member" align="right" src="https://badges.strrl.dev/contributions/all/marquescami?color=ee82ee" />
 
 - 🚀 Analista de sistemas
-- 👩🏽‍💻 Graduanda em Análise e desenvolvimento de sistemas no Instituto Federal da Bahia (IFBA) - Salvador
-- 🎓 Psicóloga por formação
+- 👩🏽‍💻 Graduada em Análise e desenvolvimento de sistemas no Instituto Federal da Bahia (IFBA) - Salvador
 - ☕ Apaixonada por tecnologia e por café
-
 
 ##
 
